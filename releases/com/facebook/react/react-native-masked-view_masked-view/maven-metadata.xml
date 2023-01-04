@@ -3,8 +3,8 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-masked-view_masked-view</artifactId>
   <versioning>
-    <latest>0.2.6-jitsi-12578253</latest>
-    <release>0.2.6-jitsi-12578253</release>
+    <latest>0.2.6-jitsi-12654110</latest>
+    <release>0.2.6-jitsi-12654110</release>
     <versions>
       <version>0.2.6-jitsi-12541566</version>
       <version>0.2.6-jitsi-12542309</version>
@@ -22,7 +22,8 @@
       <version>0.2.6-jitsi-12576645</version>
       <version>0.2.6-jitsi-12577945</version>
       <version>0.2.6-jitsi-12578253</version>
+      <version>0.2.6-jitsi-12654110</version>
     </versions>
-    <lastUpdated>20221226183536</lastUpdated>
+    <lastUpdated>20230104131830</lastUpdated>
   </versioning>
 </metadata>
